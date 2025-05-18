@@ -1,4 +1,4 @@
-// data.js
+
 const autores = [
   { id: 1, nome: 'Machado de Assis' },
 ];
