@@ -1,0 +1,13 @@
+{
+  "name": "image-processor",
+  "version": "1.0.0",
+  "description": "Simulação de processamento de imagens via Lambda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1360.0",
+    "sharp": "^0.33.1"
+  }
+}

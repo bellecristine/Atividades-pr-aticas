@@ -1,0 +1,13 @@
+{
+  "imagemId": "exemplo.jpg",
+  "tipo": "jpeg",
+  "largura": 258,
+  "altura": 148,
+  "tamanho": 4423,
+  "versoes": [
+    "thumb",
+    "200px",
+    "500px",
+    "1000px"
+  ]
+}
